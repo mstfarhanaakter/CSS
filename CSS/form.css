@@ -1,0 +1,24 @@
+body{
+    margin: 30px;
+}
+label{
+    width: 100px;
+    display: inline-block;
+}
+fieldset{
+    width: 30%;
+    border-color: blue;
+    background: #ffe9e9;
+}
+legend{
+    font-weight: bold;
+}
+
+.submit{
+    background: #f8f8f8;
+    width: 25%;
+}
+.reset{
+    background: #f8f8f8 ;
+    width: 25%;  
+}
