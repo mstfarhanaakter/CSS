@@ -7,8 +7,12 @@ div {
     justify-content: center;
     /* text-align: center; */
     background: linear-gradient(rgb(179, 225, 240), lightyellow, rgb(147, 206, 230));
-    
-
+}
+#id1{
+    background: linear-gradient(rgb(255, 255, 0), rgb(163, 255, 163), rgb(142, 223, 255), pink);
+}
+ p{ /*font-size: 5vh; */
+     font-size: 5vw;
 
 }
 
@@ -22,7 +26,6 @@ div {
     /* background-color: rgb(165, 165, 255); */
     margin-right: 20px;
     font-size: 20px;
-
 }
 
 .two {
@@ -48,8 +51,6 @@ div {
     font-weight: bold;
     margin-right: 20px;
     font-size: 20px;
-
-
 
 }
 
