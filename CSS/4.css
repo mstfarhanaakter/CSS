@@ -1,0 +1,104 @@
+
+.line{
+    text-align: center;
+}
+.line1{
+    font-family: Georgia;
+    font-size: large;
+}
+.line2{
+    text-align: center;
+}
+.line3{
+    /* font-size: 3.2vw; */
+    text-align: justify;
+    font-size: large;
+}
+
+.par{
+    line-height: 1.5;
+    font-size: 3.4vh;
+
+}
+img{
+    width: 100%;
+    height: 800px;
+}
+#img1{
+    
+    float: left;
+    width: 30%;
+    height: auto;
+    margin: 20px;
+    /* display: flex; */
+    line-height: 1.5;
+    
+    
+}
+#img2{
+    
+    float: right;
+    width: 30%;
+    height: auto;
+    margin: 20px;
+    
+    
+}
+#img3{
+    
+    float: left;
+    width: 30%;
+    height: auto;
+    margin: 20px;
+    
+}#img4{
+    
+    float: right;
+    width: 30%;
+    height: auto;
+    margin: 20px;
+    
+}#img5{
+    
+    float: left;
+    width: 30%;
+    height: auto;
+    margin: 20px;
+    
+}#img6{
+    
+    float: right;
+    width: 30%;
+    height: auto;
+    margin: 20px;
+    
+}#img7{
+    
+    float: left;
+    width: 30%;
+    height: auto;
+    margin: 20px;
+    
+}#img8{
+    
+    float: right;
+    width: 30%;
+    height: auto;
+    margin: 20px;
+    
+}
+#img9{
+    
+    float: left;
+    width: 30%;
+    height: auto;
+    margin: 20px;
+    
+}#img10{
+    
+    float: right;
+    width: 30%;
+    height: auto;
+    margin: 20px;
+    
+}
