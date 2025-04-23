@@ -1,8 +1,13 @@
 body {
     width: 70%;
     align-items: center;
-    margin: 5% 15%;
+    margin: 0% 15%;
 }
+/* header{
+    background-color: pink;
+    height: 70px;
+    justify-content: center;
+} */
 
 .line {
     text-align: center;
