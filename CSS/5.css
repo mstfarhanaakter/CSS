@@ -27,7 +27,7 @@ h1{
 }
 .par{
     text-align: center;
-    ;
+    
 }
 .div0{
   float: right;
@@ -43,7 +43,8 @@ h1{
 }
 .main0{
    display: flex;
-   justify-content: space-between;
+   justify-content: center;
+   gap: 20px;
   
   
     
@@ -68,8 +69,11 @@ h1{
 
 }
 .film p{
+
     text-align: center;
     color: white;
+    align-items: center;
+    
    
 } 
 button{
