@@ -1,8 +1,6 @@
 body{
     background-color: #53caff;
 background-image: linear-gradient(90deg, #53caff 0%, #fe6bff 100%);
-
-
 }
 h1{
     text-align: center;
@@ -22,8 +20,6 @@ h1{
     width: 300px;
     padding: 10px;
     background-color:#d5f5e3  ;
-   
-  
 }
 .par{
     text-align: center;
@@ -44,10 +40,7 @@ h1{
 .main0{
    display: flex;
    justify-content: center;
-   gap: 20px;
-  
-  
-    
+   gap: 20px;  
 }
 .film{
    border: 1px solid; 
@@ -57,7 +50,6 @@ h1{
    background-color: #6977e1;
    box-shadow: 5px 10px 5px rgb(196, 194, 236);
    border-radius: 20px;
-   
     
 }
 .film img {
@@ -74,7 +66,6 @@ h1{
     color: white;
     align-items: center;
     
-   
 } 
 button{
     background-color:rgb(196, 255, 2);
