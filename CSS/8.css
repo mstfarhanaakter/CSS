@@ -1,22 +1,36 @@
-menu{
-    list-style-type: none;
-    
-    
-    
+.relative{
+    background-color: bisque;
+    border: 2px solid blue;
+    height: 800px;
+    width: 70%;
+    position: relative;
+    top: 180px;
+    left: 20px;
 }
-menu li{
-    float: left;
-    gap: 20px;
-    margin-left: 10%;
-    
-    
-    
-    
+.absolute{
+    background-color: aquamarine;
+    border: 2px solid rgb(247, 91, 19);
+    height: 300px;
+    width: 50%;
+    position: absolute;
+    right: 10px;
+    bottom: 30px;
+
 }
-menu li a{
-    text-decoration: none;
-    font-weight: bold;
-    color: black;
-    
-    
+.sticky{
+position: sticky;
+  top: 20px;
+  padding: 5px;
+  background-color: #cae8ca;
+  border: 2px solid #4CAF50;
+}
+.fixed{
+    position: fixed;
+    top: 20px;
+  padding: 5px;
+  background-color: #d1ffd1;
+  width: 100%;
+  text-align: center;
+  
+  
 }
